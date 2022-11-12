@@ -1,0 +1,502 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols:wght@400;500;600;700&display=swap');
+
+
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    background-image: url(./картинки/pp.png);
+
+}
+
+.header-line {
+    display: flex;
+}
+
+body {
+
+
+
+    font-family: 'Noto Sans Symbols', sans-serif;
+    margin-left: 100px;
+
+}
+
+.container {
+    width: 1200px;
+    margin: 0 30px;
+}
+
+
+.header-wrapper {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+
+}
+
+.but {
+    width: 169px;
+    height: 42px;
+    background-color: #4397A4;
+    border-radius: 12px;
+    margin-left: 200px;
+}
+
+.nav {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 120px;
+}
+
+.nav-link {
+    margin-right: 35px;
+    color: #678C92;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+
+.buildit {
+    margin-top: -150px;
+    width: 76px;
+    height: 44px;
+    margin-left: 150px;
+    font-size: 26px;
+    font-weight: 700;
+    font-style: normal;
+
+    color: #486A6F;
+}
+a{
+    text-decoration: none;
+  color: #486A6F;  
+}
+.kar {
+    width: 160px;
+    height: 160px;
+    margin-left: 692px;
+    margin-top: 89px;
+}
+
+.ka {
+    width: 128px;
+    height: 128px;
+    margin-top: 120px;
+}
+
+.q {
+    width: 249px;
+    height: 248px;
+}
+
+.we {
+    margin-top: 90px;
+    margin-left: auto;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+.we2 {
+    margin-left: 671px;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+.asd {
+    width: 209px;
+    height: 208px;
+}
+
+.h1 {
+    font-size: 64px;
+    color: #486A6F;
+}
+
+.p {
+    font-size: 22px;
+    color: #678C92;
+
+}
+
+.tex {
+    width: 550px;
+    margin-top: 179px;
+}
+
+.text {
+    display: flex;
+}
+
+.krug {
+    margin-top: 90px;
+}
+
+.imgg {
+    margin-top: -700px;
+}
+
+button {
+    width: 128px;
+    height: 61px;
+    background-color: #4397A4;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+
+.button {
+    width: 257px;
+    height: 61px;
+    border: none;
+    margin-left: 20px;
+    background-color: #C6DBFF;
+    color: #486A6F;
+    border-radius: 10px;
+}
+
+.buton {
+    display: flex;
+    margin-top: 50px;
+}
+
+.qw {
+    font-family: 'Noto Sans Symbols', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    align-items: Center;
+    color: #486A6F;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.ocin {
+    display: flex;
+    margin-top: 150px;
+
+
+
+    gap: 50px;
+    margin-left: 280px;
+}
+
+.ic {
+
+    flex-direction: column;
+
+}
+
+.yui {
+    flex-direction: column;
+    font-weight: 700;
+    font-size: 24px;
+    Line-height: 44px;
+    color: #486A6F;
+    margin-bottom: 50px;
+}
+
+p {
+    font-weight: 500;
+    font-size: 16px;
+    Line-height: 32px;
+    color: #486A6F;
+}
+
+.io {
+    margin-top: 40px;
+
+}
+
+.as {
+    margin-bottom: 90px;
+}
+
+.lolo {
+
+    text-align: justify;
+    margin: 150px 700px;
+    padding: 0;
+}
+
+.hjk {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+
+
+
+    color: #5BCCDE;
+}
+
+.julia {
+
+    width: 500px;
+    height: 96px;
+
+
+
+    margin-top: 150px;   font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+
+
+    color: #486A6F;
+}
+
+.tom {
+    width: 480px;
+    height: 224px;
+
+
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+
+
+    color: #678C92;
+}
+
+.pepe {
+    /* margin-top: -300px; */
+    text-align: justify;
+    margin: 390px 100px;
+    padding: 0;
+
+}
+
+.po {
+    margin-top: -1000px;
+    margin-left: 800px;
+    gap: 40px;
+}
+
+.ui {
+    margin-bottom: 100px;
+}
+
+.lop {
+    margin: 450px 650px;
+
+
+
+}
+.sd{
+    margin-top: -500px;
+}
+
+.juli {
+    width: 500px;
+    height: 96px;
+
+    margin-left: -80px;
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+
+
+    color: #486A6F;
+}
+
+.pho {
+    margin-left: -400px;
+    margin-top: 100px;
+}
+
+.ll {
+    margin-left: 200px;
+}
+
+.l {
+    text-align: justify;
+}
+
+.poko {
+    flex-direction: column;
+}
+
+.kk {
+    margin-left: 50px;
+}
+
+.yy {
+    font-weight: 700;
+    margin-top: 50px;
+    margin-left: -60px;
+}
+
+.ii {
+    display: flex;
+
+}
+
+.ik {
+    display: flex;
+}
+
+.ip {
+    display: flex;
+}
+
+.hy {
+    margin-left: -100px;
+    margin-top: 50px;
+}
+
+.ho {
+    margin-bottom: 50px;
+    margin-left: -100px;
+}
+
+.hu {
+    margin-left: -100px;
+}
+
+.lk {
+    background-image: url(./картинки/p.png);
+    width: 475px;
+    height: 508px;
+
+    margin-top: -400px;
+    margin-left: 800px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.ju {
+    display: flex;
+    gap: 100px;
+
+}
+
+.yuiop {
+    width: 400px;
+    height: 100px;
+    background-color: #C6DBFF;
+}
+
+.kkio {
+    margin-left: 50px;
+    height: 30px;
+    background-color: #C6DBFF;
+}
+
+.plm {
+    margin-left: 90px;
+}
+
+.jkl {
+    width: 400px;
+    height: 30px;
+    background-color: #C6DBFF;
+}
+
+.bgg {
+    height: 30px;
+    background-color: #C6DBFF;
+}
+
+.lkh {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 55px;
+    gap: 10px;
+    width: 400px;
+    height: 50px;
+    margin-top: 40px;
+    background-color: #4397A4;
+}
+
+.qaz {
+    width: 109px;
+    height: 22px;
+
+
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+
+
+    text-align: center;
+
+    color: #F4F7FF;
+
+
+}
+
+.qws {
+
+display: flex;
+    width: 1440px;
+    height: 434px;
+    margin-bottom: 100px;
+    color: white;
+    padding: 100px;
+    gap: 100px;
+    background-color: #486A6F;
+}
+
+.jj {
+    color: white;
+
+}
+
+.ss {
+    color: white;
+    margin-top: -60px;
+}
+
+.jp {
+    margin-left: -100px;
+    color: white;
+    flex-direction: column;
+}
+
+.jy {
+
+    color: white;
+}
+
+.lhf{
+    display: flex;
+margin-left: 400px;
+gap: 50px;
+margin-top: 50px;
+
+}
+.pi{
+    width: 1200px;
+    height: 1px;
+  margin: auto;
+    background-color:#486A6F;
+    margin-top: 50px;
+}
+.nv{
+    margin-left: -600px;
+}
+.asz{
+    margin-top: -500px;
+}
+.po{
+    margin-bottom: -450px;
+}
